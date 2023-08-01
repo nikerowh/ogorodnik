@@ -1,0 +1,19 @@
+html, body {
+    font-family: 'Montserrat', sans-serif;
+    background-color:LightYellow;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+body::-webkit-scrollbar {width: 10px;}
+body::-webkit-scrollbar-track {background: LightYellow;}
+body::-webkit-scrollbar-thumb {background-color: #5dac0e; border-radius: 5px;}
+
+
+header {height: 128px;}
+
+h1 {font-size: 48pt; text-align: center; margin-top: 0px;}
+h2 {font-size: 24pt; text-align: center; color: rgb(64, 64, 64);}
+h3 {font-size: 16pt; color: #5dac0e;}
+
+

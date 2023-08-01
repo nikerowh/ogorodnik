@@ -1,0 +1,15 @@
+.icon img {width: 100px;}
+
+.logo {text-align: center;}
+.logo img {width: 150px;}
+
+.table-icon {border-color: LemonChiffon; border-radius: 15px; border-width: 3px;}
+.table-icon img {width: 200px;}
+
+.main-link {
+    font-size: 40pt;
+    background-color: #5DAC0E;
+    border-radius: 15px;
+    padding: 20px;
+
+}
