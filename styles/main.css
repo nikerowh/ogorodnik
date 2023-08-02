@@ -1,18 +1,28 @@
 html, body {
     font-family: 'Montserrat', sans-serif;
     background-color: mintcream;
-    padding-left: 5%;
-    padding-right: 5%;
+    margin-top: 20px !important;
+    margin: 0px;
 }
 
 body::-webkit-scrollbar {width: 10px;}
 body::-webkit-scrollbar-track {background: mintcream;}
-body::-webkit-scrollbar-thumb {background-color: #5dac0e; border-radius: 5px;}
+body::-webkit-scrollbar-thumb {background-color: #5dac0e;}
 
 h1 {font-size: 48pt; text-align: center; margin-top: 0px;}
 h2 {font-size: 24pt; text-align: center; color: rgb(64, 64, 64);}
 h3 {font-size: 16pt; color: #5dac0e;}
 
+main {padding-left: 3%; padding-right: 3%;}
+footer {
+    height: 100px;
+    background-color: #5dac0e;
+    padding-left: 0px !important; 
+    padding-right: 0px !important;
+}
+
 .name {text-align: center;}
 .name img {width: 90%;}
 .nav-menu {margin-left: 50px; margin-right: 50px;}
+
+
