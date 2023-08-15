@@ -15,10 +15,11 @@ h3 {font-size: 16pt; color: #5dac0e;}
 
 main {padding-left: 3%; padding-right: 3%;}
 footer {
-    height: 100px;
+    height: 200px;
     background-color: #5dac0e;
     padding-left: 0px !important; 
     padding-right: 0px !important;
+    padding-top: 20px;
 }
 
 .name {text-align: center;}
