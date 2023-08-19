@@ -11,7 +11,8 @@ body::-webkit-scrollbar-thumb {background-color: #5dac0e;}
 
 h1 {font-size: 48pt; text-align: center; margin-top: 0px;}
 h2 {font-size: 24pt; text-align: center; color: rgb(64, 64, 64);}
-h3 {font-size: 16pt; color: #5dac0e;}
+h3, th {font-size: 16pt; color: #5dac0e;}
+h4 {font-size: 14pt; font-weight: bolder;}
 
 main {padding-left: 3%; padding-right: 3%;}
 footer {
