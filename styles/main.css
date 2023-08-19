@@ -3,7 +3,6 @@ html, body {
     background-color: mintcream;
     margin-top: 20px !important;
     margin: 0px;
-    height: 100%;
 }
 
 body::-webkit-scrollbar {width: 10px;}
@@ -15,13 +14,7 @@ h2 {font-size: 24pt; text-align: center; color: rgb(64, 64, 64);}
 h3, th {font-size: 16pt; color: #5dac0e;}
 h4 {font-size: 14pt; font-weight: bolder;}
 
-main {
-    padding-left: 3%;
-    padding-right: 3%;
-    min-height: 100%;
-    padding: 220px;
-
-}
+main {padding-left: 3%; padding-right: 3%; height: 100%;}
 footer {
     height: 200px;
     background-color: #5dac0e;
