@@ -7,3 +7,27 @@
     margin-left: 20px;
     margin-right: 20px;
 }
+.catalog-icon-mini, .catalog-icon-mini img {
+    border-radius: 15px;
+    max-height: 175px;
+    min-height: 10px;
+    height: auto;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.button {
+    margin: 20px;
+    text-align: center;
+    height: 50px;
+    width: 125px;
+    background-color: #5dac0e;
+    color: black;
+    font-weight: 900;
+    border-color: #5dac0e;
+    border-width: 10px;
+    border-radius: 15px;
+    padding-top: 20px;
+    
+}
+.button:hover {background-color: #72d113;}
