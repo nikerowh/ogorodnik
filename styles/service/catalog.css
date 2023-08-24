@@ -16,6 +16,16 @@
     margin-left: 20px;
     margin-right: 20px;
 }
+
+.catalog-icon-big, .catalog-icon-big img {
+    border-radius: 35px;
+    max-height: 350px;
+    min-height: 10px;
+    height: auto;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
 .button {
     margin: 20px;
     text-align: center;
@@ -31,3 +41,4 @@
     
 }
 .button:hover {background-color: #72d113;}
+.info {font-size: 16pt;}
